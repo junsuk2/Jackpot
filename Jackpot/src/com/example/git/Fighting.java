@@ -14,11 +14,15 @@ public class Fighting {
 		System.out.println("충돌나라!");
 		
 		System.out.println("충돌나라!!!");
+
 		int result = 0;
 		for(int i = 0; i<10; i++){
 			result += i;
 		}
 		System.out.println("result: "+result);
+
+		System.out.println("자라나라머리머리");
+
 	}
 
 }
