@@ -8,6 +8,8 @@ public class Fighting {
 		System.out.println("내가 팀장이다!");
 		
 		System.out.println("나는 팀원인데...");
+		
+		System.out.println("미안.. 몰랐어...");
 	}
 
 }
