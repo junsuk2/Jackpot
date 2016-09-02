@@ -14,6 +14,8 @@ public class Fighting {
 		System.out.println("충돌나라!");
 		
 		System.out.println("충돌나라!!!");
+		
+		System.out.println("자라나라머리머리");
 	}
 
 }
