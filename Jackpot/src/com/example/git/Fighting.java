@@ -6,6 +6,8 @@ public class Fighting {
 		// TODO Auto-generated method stub
 		System.out.println("파이팅!!");
 		System.out.println("내가 팀장이다!");
+		
+		System.out.println("나는 팀원인데...");
 	}
 
 }
