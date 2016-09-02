@@ -10,6 +10,8 @@ public class Fighting {
 		System.out.println("나는 팀원인데...222");
 		
 		System.out.println("미안.. 몰랐어...");
+		
+		System.out.println("충돌나라!");
 	}
 
 }
