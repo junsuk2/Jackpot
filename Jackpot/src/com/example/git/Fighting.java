@@ -12,6 +12,8 @@ public class Fighting {
 		System.out.println("미안.. 몰랐어...");
 		
 		System.out.println("충돌나라!");
+		
+		System.out.println("충돌나라!!!");
 	}
 
 }
